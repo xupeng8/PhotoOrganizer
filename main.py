@@ -1,11 +1,13 @@
 #!/usr/bin/env python
 #! -*- coding: utf-8 -*-
 
-#
-# Copyright @ Eric Xu 2017-02-02
-# To orgnize photos by creating directory with name of date
-# and move corresponding files to it
-#
+'''
+Copyright @ Eric Xu 2017-02-02
+To orgnize photos by creating directory with name of date
+and move corresponding files to it
+'''
+
+__author__ = 'Eric Xu'
 
 import os
 import re
